@@ -1,2 +1,2 @@
-# finding initials from a name
-This program finds initials from any full name and displays them.
+# finding initials of a name
+This program finds initials of any full name and displays them.
